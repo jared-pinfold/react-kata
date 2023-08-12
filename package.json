@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate-react",
+  "name": "react-kata",
   "version": "0.2.0",
-  "description": "React!",
+  "description": "React Kata!",
   "repository": "https://github.com/dev-academy-challenges/react-boilerplate.git",
   "main": "server/index.js",
   "scripts": {
